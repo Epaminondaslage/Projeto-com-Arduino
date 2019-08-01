@@ -17,5 +17,5 @@ proprietário ser notificado. Aplicação com bom custo benefício e podendo ser
 - Ferro de Solda e Estanho 
 - Vaso com planta
 # Créditos 
-https://www.filipeflop.com
-http://blog.baudaeletronica.com.br
+- https://www.filipeflop.com
+- http://blog.baudaeletronica.com.br
