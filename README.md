@@ -18,4 +18,4 @@ Este projeto consiste em uma simples aplicação de sistema de irrigação usand
 # Créditos 
 - http://blog.baudaeletronica.com.br
 
-<p><img src="jpg" alt="ola" width="300" height="300" /><img src="jpg" alt="projeto" width="400" height="194" /></p>
+
