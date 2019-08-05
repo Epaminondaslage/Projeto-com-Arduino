@@ -4,7 +4,6 @@ Sistema de irrigação + Notificação com ArduínoGSM
 Neste projeto consiste em uma simples aplicação de sistema que irrigação usando o Arduíno e também com um sistema para o 
 proprietário ser notificado. Aplicação com bom custo benefício e podendo ser utilizado por qualquer um.
 # Materiais
-- Arduino GSM Shield
 - Arduino Uno
 - Sensor de umidade de solo
 - Módulo Relé 5V
