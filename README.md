@@ -19,3 +19,4 @@ Este projeto consiste em uma simples aplicação de sistema de irrigação usand
 - http://blog.baudaeletronica.com.br
 
 
+<p><img src="jpg" alt="imagens/projeto irrigação" width="400" height="194" /></p>
