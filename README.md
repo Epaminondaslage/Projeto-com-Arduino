@@ -17,3 +17,6 @@ Este projeto consiste em uma simples aplicação de sistema de irrigação usand
 – 1 Mini Bomba de Água (d’água) para Arduino RS-385
 # Créditos 
 - http://blog.baudaeletronica.com.br
+
+<p>&lt;img width="300px" height="300px" src="projeto irrigação"/&gt;</p>
+<p>&nbsp;</p>
