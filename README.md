@@ -16,6 +16,7 @@ proprietário ser notificado. Aplicação com bom custo benefício e podendo ser
 - Terminal Faston fêmea 
 - Ferro de Solda e Estanho 
 - Vaso com planta
+– 1 Mini Bomba de Água (d’água) para Arduino RS-385
 # Créditos 
 - https://www.filipeflop.com
 - http://blog.baudaeletronica.com.br
