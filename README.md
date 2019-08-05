@@ -1,8 +1,7 @@
 # Título do projeto
 Sistema de irrigação + Notificação com ArduínoGSM
 # Descrição
-Neste projeto consiste em uma simples aplicação de sistema que irrigação usando o Arduíno e também com um sistema para o 
-proprietário ser notificado. Aplicação com bom custo benefício e podendo ser utilizado por qualquer um.
+Este projeto consiste em uma simples aplicação de sistema de irrigação usando o Arduíno que pode nos auxiliar em atividades do nosso cotidiano. Projeto que verifica informações do solo e determina o momento ideal para irrigação. Aplicação com bom custo benefício e podendo ser utilizado por qualquer um.
 # Materiais
 - Arduino Uno
 - Sensor de umidade de solo
@@ -17,5 +16,4 @@ proprietário ser notificado. Aplicação com bom custo benefício e podendo ser
 - Vaso com planta
 – 1 Mini Bomba de Água (d’água) para Arduino RS-385
 # Créditos 
-- https://www.filipeflop.com
 - http://blog.baudaeletronica.com.br
