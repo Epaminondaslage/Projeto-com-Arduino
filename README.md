@@ -1,5 +1,6 @@
 # Título do projeto
 Sistema de irrigação 
+# Integrantes: Arthur Oliveira, Bruna Aguilar, Felipe Nepomuceno, Gabriel Coelho Ribeiro, Guilherme Quintanilha
 # Descrição
 Este projeto consiste em uma simples aplicação de sistema de irrigação usando o Arduíno, que pode nos auxiliar em atividades do nosso cotidiano. Projeto que verifica informações do solo e determina o momento ideal para irrigação, aplicação com bom custo benefício e podendo ser utilizado por qualquer um.
 # Materiais
