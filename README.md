@@ -16,6 +16,8 @@ Este projeto consiste em uma simples aplicação de sistema de irrigação usand
 - Ferro de Solda e Estanho 
 - Vaso com planta
 – 1 Mini Bomba de Água (d’água) para Arduino RS-385
+# Diagrama de montagem
+<p><img src="https://github.com/Gabriel304/Projeto-com-Arduino/blob/master/projeto%20irriga%C3%A7%C3%A3o.png" alt="" width="300" height="300" /></p>
 # Créditos 
 - http://blog.baudaeletronica.com.br
 
