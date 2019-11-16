@@ -19,7 +19,7 @@ Este projeto consiste em uma simples aplicação de sistema de irrigação usand
 - Cabo flexível de 2,5 mm²
 - Plug macho para alimentação na rede
 # Diagrama de montagem
-<p><img src="https://github.com/Gabriel304/Projeto-com-Arduino/blob/master/projeto%20irriga%C3%A7%C3%A3o.png" alt="" width="300" height="300" /></p>
+![irrig_bb](https://user-images.githubusercontent.com/53450775/68998818-fdd58680-0895-11ea-80cc-1255042ae007.jpg)
 # Créditos 
 - http://blog.baudaeletronica.com.br/sistema-de-irrigacao-com-arduino/
 
