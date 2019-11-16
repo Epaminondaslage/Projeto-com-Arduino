@@ -1,7 +1,8 @@
 # Projeto
 Sistema de Irrigação 
 # Integrantes 
-Arthur Oliveira, Bruna Aguilar, Felipe Nepomuceno, Gabriel Coelho Ribeiro, Guilherme Quintanilha
+Gabriel Coelho Ribeiro, Arthur Oliveira, Bruna Aguilar, Guilherme Quintanilha, Felipe Nepomuceno
+![grupo](https://user-images.githubusercontent.com/53450775/68999216-4abc5b80-089c-11ea-9a4e-21c220cdca88.jpg)
 # Proposta
 Elaborar um sistema de irrigação para aplicações residenciais e prediais. O objetivo desse projeto é proporcionar uma irrigação automática às plantas instaladas em jardins, vasos ou áreas verdes, para aqueles usuários que possuem pouco tempo para dedicação as suas plantas ou que estarão ausentes por um período longo, por exemplo, uma viagem. 
 # Descrição
