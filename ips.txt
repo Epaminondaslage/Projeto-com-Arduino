@@ -1,0 +1,43 @@
+#Conexão com a Internet
+8.8.8.8,DNS Google
+
+#Roteador Internet e AP's
+10.0.0.1,Roteador Intelbras/AP-Garagem 
+10.0.0.100,Picostation-Casa Caseiro
+10.0.0.101,WaveLink-Painel Irrigação
+10.0.0.102,Ubiquiti Unifi-Cozinha
+
+# Server e PC
+10.0.0.2,Odroid
+10.0.0.26,PC Salão de Jogos
+
+#VPN 
+10.0.0.3,AP Mikrotik-Chalé
+
+#DVR
+10.0.0.199,Garagem
+10.0.0.200,Granja
+10.0.0.201,Chalé
+
+#Alarme
+10.0.0.202,Alarme Paradox
+
+#PLC 
+10.0.0.203,Logo Irrigação
+10.0.0.204,Logo Iluminação
+
+# Sensores
+10.0.0.24,Nível Caixa d'água
+
+# Relés Ip's
+10.0.0.47,<B>Sonoff Sirene</B>
+
+#Visicomp
+10.0.0.30,Irrigação
+10.0.0.31,Garagem
+10.0.0.32,Iluminação
+
+
+#Câmera IP
+10.0.0.120,Portão Santa Mônica
+
